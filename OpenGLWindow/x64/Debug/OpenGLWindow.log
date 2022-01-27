@@ -1,0 +1,3 @@
+﻿  window_main.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\Textures\OpenGLWindow\shader.h(141,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  OpenGLWindow.vcxproj -> C:\Users\tahmi\VS Projects\repos\OpenGL\Textures\x64\Debug\OpenGLWindow.exe
